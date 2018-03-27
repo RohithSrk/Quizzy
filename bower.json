@@ -1,0 +1,33 @@
+{
+  "name": "Quizzy",
+  "authors": [
+    "Rohith Singirkonda"
+  ],
+  "description": "Online Interactive Quiz application",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "quiz",
+    "online",
+    "interactive",
+    "test",
+    "learn",
+    "practice"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.5.0",
+    "masonry": "^4.0.0"
+  }
+}
